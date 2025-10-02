@@ -5,7 +5,8 @@
         price: '170 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     },
 
     {
@@ -14,7 +15,8 @@
         price: '171 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     },
 
     {
@@ -23,7 +25,8 @@
         price: '172 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     },
 
     {
@@ -32,7 +35,8 @@
         price: '173 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     },
 
     {
@@ -41,7 +45,8 @@
         price: '174 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     },
 
     {
@@ -50,6 +55,7 @@
         price: '175 р',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: "Продаю не спеша самокат в хорошем состоянии."
     }
 ]
